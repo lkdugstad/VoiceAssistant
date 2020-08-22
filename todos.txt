@@ -1,0 +1,4 @@
+> Kategorien vervollständigen und zu jedem ein dict mit möglichen Sätzen als auch einzigartigen KeyWords
+> neuralNet.py ausarbeiten. Dazu vorher die Filterung von Texten übernehmen.
+> stop_words in neuralNet.py korrigieren
+> 
